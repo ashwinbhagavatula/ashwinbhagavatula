@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### I'm Venkata Sai Ashwin Bhagavatula
+I am curious about all things web.
+
+- 🔭 I’m currently working on HeyDJ 
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
