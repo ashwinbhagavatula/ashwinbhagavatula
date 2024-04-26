@@ -10,6 +10,9 @@ I am curious about all things web.
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
