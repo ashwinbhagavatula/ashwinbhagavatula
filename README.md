@@ -3,7 +3,8 @@
 ### I'm Venkata Sai Ashwin Bhagavatula
 I am curious about all things web.
 
-- 🔭 I’m currently working on HeyDJ 
+- 🔭 I’m currently working on HeyDJ
+- 🌱 I’m currently learning to build SaaS products from scratch using my preferred techstack
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python)](https://skillicons.dev)
