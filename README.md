@@ -6,7 +6,10 @@ I am curious about all things web.
 - 🔭 I’m currently working on HeyDJ 
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind)](https://skillicons.dev)
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
