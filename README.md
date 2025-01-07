@@ -20,6 +20,9 @@ I am curious about all things web.
 ### Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,linux,aws)](https://skillicons.dev)
 
+#
+
+![My Github Stats](https://github-readmne-stats.vercel.app/api?username=ashwinbhagavatula&show_icons=true&theme=gruvbox)
 
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
