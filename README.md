@@ -26,6 +26,15 @@ I am curious about all things web.
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinbhagavatula&show_icons=true&theme=nightowl)
 
+#
+
+<details>
+  <summary>
+    <h3>Ash's Coding Journey </h3>
+  </summary>
+  It all started in schooling when we had that one computers class where we were taught how to use Logo programming and after that a little bit of C print statements. At first, I was just excited about the time I got to spend with a PC but slowly it developed into an interest to learn the language and just do some cool stuff with it. So began my CS journey as a naive computer science student with a passion for learning everything about this programming world. After dabbling into web development to build my own site, into hacking to seem cool, into data analysis and machine learning for what it could do, I finally came back to software development and landed my first full-time role as a full stack developer. Now I am pursuing my interest of contributing towards open source projects and grow more as an engineer.    
+</details>
+
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
