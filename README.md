@@ -6,6 +6,8 @@ I am curious about all things web.
 - 🔭 I’m currently working on HeyDJ
 - 🌱 I’m currently learning to build SaaS products from scratch using my preferred techstack
 
+---
+
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python)](https://skillicons.dev)
 
@@ -17,6 +19,8 @@ I am curious about all things web.
 
 ### Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,linux,aws)](https://skillicons.dev)
+
+
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
