@@ -24,7 +24,7 @@ I am curious about all things web.
 
 ### Stats 
 
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinbhagavatula&show_icons=true)
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinbhagavatula&show_icons=true&theme=nightowl)
 
 <!--
 **ashwinbhagavatula/ashwinbhagavatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
